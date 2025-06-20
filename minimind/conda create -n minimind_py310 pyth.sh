@@ -1,5 +1,5 @@
 ####@https://github.com/jingyaogong/minimind
-##Test0
+##Test0 23:44 2025/6/20 wky
 conda create -n minimind_py310 python=3.10 -y
 git lfs install
 
