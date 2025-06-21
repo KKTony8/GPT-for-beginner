@@ -7,7 +7,7 @@ git clone https://github.com/jingyaogong/minimind.git
 cd minimind
 pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-#这一步服务器无法访问huggingface.co，所以可以本地设置端口下载
+#这一步服务器无法访问huggingface.co，所以可以本地设置端口下载set https_proxy=http://127.0.0.1:7890
 git clone https://huggingface.co/jingyaogong/MiniMind2
 
 # 可能需要`python>=3.10` 安装 `pip install streamlit`
