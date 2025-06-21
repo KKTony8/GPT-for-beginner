@@ -1,2 +1,2 @@
 # GPT-for-beginner
-#This repository is mainly about GPT.
+This repository is mainly about GPT.
